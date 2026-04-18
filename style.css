@@ -1,0 +1,68 @@
+
+#addStresser{
+     background-color: royalblue;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 30px;
+    position: absolute;
+    bottom:100px;
+    left:35%;
+    width:200px;
+    height:50px; 
+
+}
+
+#listProblems{
+    background-color: orange;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    position:absolute;
+    bottom:200px;
+    left:33%;
+    width:200px;
+    height:20px;
+    text-align: center;
+
+}
+
+
+body{
+    background-color:royalblue;
+    color:orange;
+}
+
+
+
+
+ul li{
+    list-style-type: none;
+    cursor: pointer;
+    margin-block-end: 12px;
+    border-radius: 8px;
+    border: 0.125px solid #a19f9f;
+    padding-left: 20px;
+    background-color:white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: background-color 0.5s;
+}
+
+#skibidi{
+    position:absolute;
+    bottom:140px;
+    left:290px;
+}
+
+#boo{    
+    width: 300px;
+    height:300px;
+}
+
+#trunk{
+    width:300px;
+    height:300px;
+}
